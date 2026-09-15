@@ -102,14 +102,14 @@ Easy Soft Creator
 #### 🌐 Kostenlose Online-Web-Version
 Nutzen Sie das OCR-Tool sofort in Ihrem Browser – keine Installation, keine Registrierung erforderlich.
 
-[![Web-Version öffnen]([https://img.shields.io/badge/Web_Version_](https://img.shields.io/badge/Web_Version_)öffnen-2563eb?style=for-the-badge&logo=web&logoColor=white)]([https://image-to-text-ocr-tool.pages.dev/](https://image-to-text-ocr-tool.pages.dev/))
 
-**Link:** [https://image-to-text-ocr-tool.pages.dev/](https://image-to-text-ocr-tool.pages.dev/)
+[![Web-Version öffnen](https://img.shields.io/badge/Web_Version_öffnen-2563eb?style=for-the-badge&logo=web&logoColor=white)](https://image-to-text-ocr-tool.pages.dev/)
+
 
 #### 🖥️ Microsoft Store Desktop-App
 Holen Sie sich die voll funktionsfähige Desktop-Version aus dem Microsoft Store für eine native Windows-Oberfläche.
 
-[![Jetzt bei Microsoft erhalten]([https://get.microsoft.com/images/de-de%20dark.svg](https://get.microsoft.com/images/de-de%20dark.svg))]([https://apps.microsoft.com/detail/](https://apps.microsoft.com/detail/))
+ [![Jetzt bei Microsoft erhalten](https://get.microsoft.com/images/de-de%20dark.svg)](https://apps.microsoft.com/detail/9nzd1k8cbm1h)
 
 > Ersetzen Sie den Link oben durch Ihre offizielle Microsoft Store Produkt-URL.
 
