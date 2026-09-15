@@ -109,8 +109,7 @@ Nutzen Sie das OCR-Tool sofort in Ihrem Browser – keine Installation, keine Re
 #### 🖥️ Microsoft Store Desktop-App
 Holen Sie sich die voll funktionsfähige Desktop-Version aus dem Microsoft Store für eine native Windows-Oberfläche.
 
- [![Jetzt bei Microsoft erhalten](https://get.microsoft.com/images/de-de%20dark.svg)](https://apps.microsoft.com/detail/9nzd1k8cbm1h)
-
+ [![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9nzd1k8cbm1h)
 > Ersetzen Sie den Link oben durch Ihre offizielle Microsoft Store Produkt-URL.
 
 ### 🔒 Datenschutz an erster Stelle
