@@ -43,7 +43,7 @@ Use the OCR tool instantly in your browser — no installation, no registration 
 
 [![Open Web Version](https://img.shields.io/badge/Open_Web_Version-2563eb?style=for-the-badge&logo=web&logoColor=white)](https://image-to-text-ocr-tool.pages.dev/)
 
-**Link:** https://xml-to-excel.pages.dev/
+**Link:**  https://image-to-text-ocr-tool.pages.dev/
 
 #### 🖥️ Microsoft Store Desktop App
 Get the full-featured desktop version from Microsoft Store for a native Windows experience.
@@ -63,7 +63,7 @@ This tool runs entirely client-side in your web browser. **No images, files or p
 - Extract text from receipts, invoices and photos
 
 ### Powered by
-Easy Soft Creator
+[Easy Soft Creator](https://www.easysoftlab.com/)
 
 ---
 
@@ -124,4 +124,4 @@ Dieses Tool läuft vollständig clientseitig in Ihrem Webbrowser. **Keine Bilder
 - Text aus Belegen, Rechnungen und Fotos extrahieren
 
 ### Entwickelt von
-Easy Soft Creator
+[Easy Soft Creator](https://www.easysoftlab.com/)
