@@ -41,17 +41,14 @@
 #### 🌐 Free Online Web Version
 Use the OCR tool instantly in your browser — no installation, no registration required.
 
+[![Open Web Version](https://img.shields.io/badge/Open_Web_Version-2563eb?style=for-the-badge&logo=web&logoColor=white)](https://image-to-text-ocr-tool.pages.dev/)
 
-Use the OCR tool instantly in your browser — no installation, no registration required.
-
-**Link:** [https://image-to-text-ocr-tool.pages.dev/](https://image-to-text-ocr-tool.pages.dev/)
+**Link:** https://xml-to-excel.pages.dev/
 
 #### 🖥️ Microsoft Store Desktop App
-
 Get the full-featured desktop version from Microsoft Store for a native Windows experience.
 
-> 
-> Replace the link above with your official Microsoft Store product URL.
+[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9nzd1k8cbm1h)
 
 
 ### 🔒 Privacy First
