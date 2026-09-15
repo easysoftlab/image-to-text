@@ -41,16 +41,18 @@
 #### 🌐 Free Online Web Version
 Use the OCR tool instantly in your browser — no installation, no registration required.
 
-[![Open Web Version]([https://img.shields.io/badge/Open_Web_Version-2563eb?style=for-the-badge&logo=web&logoColor=white](https://img.shields.io/badge/Open_Web_Version-2563eb?style=for-the-badge&logo=web&logoColor=white))]([https://image-to-text-ocr-tool.pages.dev/](https://image-to-text-ocr-tool.pages.dev/))
+
+Use the OCR tool instantly in your browser — no installation, no registration required.
 
 **Link:** [https://image-to-text-ocr-tool.pages.dev/](https://image-to-text-ocr-tool.pages.dev/)
 
 #### 🖥️ Microsoft Store Desktop App
+
 Get the full-featured desktop version from Microsoft Store for a native Windows experience.
 
-[![Get it from Microsoft]([https://get.microsoft.com/images/en-us%20dark.svg](https://get.microsoft.com/images/en-us%20dark.svg))]([https://apps.microsoft.com/detail/](https://apps.microsoft.com/detail/))
-
+> 
 > Replace the link above with your official Microsoft Store product URL.
+
 
 ### 🔒 Privacy First
 This tool runs entirely client-side in your web browser. **No images, files or personal data are sent to any external server.** Everything is processed locally on your device, so your documents and data remain private and secure.
